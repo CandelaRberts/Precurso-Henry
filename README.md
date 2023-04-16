@@ -1,2 +1,2 @@
-# Precurso-Henry
-Repositorio de prueba del Mod 2
+Proyecto prueba de como crear repositorio y clonarlo desde github a mi computadora
+
